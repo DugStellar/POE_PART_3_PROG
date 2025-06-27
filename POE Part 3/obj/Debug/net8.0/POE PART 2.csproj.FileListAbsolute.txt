@@ -1,0 +1,44 @@
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\POE PART 2.exe
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\POE PART 2.deps.json
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\POE PART 2.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\POE PART 2.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\POE PART 2.pdb
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\NAudio.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.csproj.Up2Date
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\refint\POE PART 2.dll
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.pdb
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\POE PART 2.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\POE PART 2\obj\Debug\net8.0\ref\POE PART 2.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\POE PART 2.exe
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\POE PART 2.deps.json
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\POE PART 2.runtimeconfig.json
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\POE PART 2.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\POE PART 2.pdb
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\NAudio.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.AssemblyInfo.cs
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.csproj.Up2Date
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\refint\POE PART 2.dll
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.pdb
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\POE PART 2.genruntimeconfig.cache
+C:\Users\RC_Student_lab\Desktop\POE Part 2\obj\Debug\net8.0\ref\POE PART 2.dll
